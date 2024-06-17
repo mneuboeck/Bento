@@ -143,7 +143,7 @@ const CONFIG = {
 					link: 'https://collab.kcsit.at/confluence/',
 				},
 				{
-					name: 'Come/Go',
+					name: 'Terminal',
 					link: 'https://210977.web.sagedpw.at/scripts/cgiip.exe/WService=210977/az9000.htm',
 				},
 				{
@@ -157,24 +157,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'monitor',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Magneta',
+					link: 'https://oss.ext.t-mobile.at/vpn/index.html',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Sunrise',
+					link: 'https://iag-vdi.sunrise.net/portal/webclient/#/home',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Cancom',
+					link: 'https://tsgate.cloud.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Liberty Global',
+					link: 'https://remote.aa.liberty.biz/logon/LogonPoint/tmindex.html',
 				},
 			],
 		},
