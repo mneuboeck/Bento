@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Gitlab',
 			icon: 'gitlab',
-			link: 'https://git.kcservices.at//',
+			link: 'https://git.kcservices.at/',
 		},
 		{
 			id: '3',
@@ -71,7 +71,7 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Teamcall,
+			name: 'Teamcall',
 			icon: 'calendar',
 			link: 'https://teamcal.kcsit.at/',
 		},
