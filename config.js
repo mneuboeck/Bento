@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Arch Wiki',
-			icon: 'navigation-2',
-			link: 'https://wiki.archlinux.org',
+			name: 'Hailey',
+			icon: 'bot',
+			link: 'https://hailey.converged.services',
 		},
 		{
 			id: '4',
