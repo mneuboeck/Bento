@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Corporate Benefits',
 			icon: 'shopping-cart',
-			link: 'https://kapsch.mitarbeiterangebote.at/',
+			link: 'https://cancom.mitarbeiterangebote.at',
 		},
 	],
 
