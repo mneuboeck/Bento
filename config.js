@@ -140,7 +140,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Confluence',
-					link: 'https://collab.kcsit.at/confluence/',
+					link: 'https://confluence.cancom.com/display/HDCS',
 				},
 				{
 					name: 'Terminal',
